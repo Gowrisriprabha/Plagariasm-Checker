@@ -105,6 +105,3 @@ For example, to check plagiarism in a new code file:
 
 3. The script will output the plagiarism results, showing the similarity between the new code file and the existing code files in `code_data`.
 
-## License
-
-This project is licensed under the MIT License.
